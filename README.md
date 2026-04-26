@@ -73,15 +73,15 @@ The purpose of this repository is to practice building clean and reusable C++ co
 
 ## Project Structure
 
-```txt
 cpp-utility-library/
 │
 ├── StringLibrary.h
 ├── FileLibrary.h
 ├── MatrixLibrary.h
 ├── BankLibrary.h
-├── main.cpp
-└── README.md
+├── MyInputLibrary.h
+├── MyOutputLibrary.h
+
 Example Usage
 #include <iostream>
 #include "StringLibrary.h"
