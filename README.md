@@ -73,7 +73,7 @@ The purpose of this repository is to practice building clean and reusable C++ co
 
 ## Project Structure
 
-cpp-utility-library/
+My-CPP-Library/
 │
 ├── StringLibrary.h
 ├── FileLibrary.h
@@ -81,6 +81,7 @@ cpp-utility-library/
 ├── BankLibrary.h
 ├── MyInputLibrary.h
 ├── MyOutputLibrary.h
+└── README.md
 
 Example Usage
 #include <iostream>
