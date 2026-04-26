@@ -73,6 +73,7 @@ The purpose of this repository is to practice building clean and reusable C++ co
 
 ## Project Structure
 
+```txt
 My-CPP-Library/
 │
 ├── StringLibrary.h
@@ -82,7 +83,7 @@ My-CPP-Library/
 ├── MyInputLibrary.h
 ├── MyOutputLibrary.h
 └── README.md
-
+```
 Example Usage
 #include <iostream>
 #include "StringLibrary.h"
